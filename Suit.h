@@ -1,7 +1,7 @@
 #ifndef SUIT_H
 #define SUIT_H
 
-enum Suit {
+enum Suit : int {
 	CLUBS, DIAMONDS, HEARTS, SPADES
 };
 
